@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi, I'm Nabil 👋
 
-<!--
-**Nabster76/nabster76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+  - 🔭 I’m currently working on the Blockchain Technology
+  - 🎓 I’m currently learning R Language
+  - 💬 Ask me about flutter, Dart, Firebase
+  - 🌱 Completing  Courses to Bolster my Knowledge of Blockchain and Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+  
+  - 💻   Python | C++ | Solidity | Typescript | JS | SQL
+  - 🌐   HTML | CSS | Flask & Django | Anvil
+  - 🔧   Git | Docker | Markdown | GCP | AWS | GraphQL
+  
+ 🤝🏻 Connect with Me
+ 
+  <a href="https://www.linkedin.com/in/nabil-laaziri/">Linkedin</a>
+  <a href="https://www.instagram.com/nabil__laaziri/">Instagram</a>
